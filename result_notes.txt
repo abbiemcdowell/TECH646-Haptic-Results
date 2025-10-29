@@ -1,0 +1,12 @@
+ALL DATA:
+    SPLIT:
+        Window 4: learning threshold is nan
+        Window 8: Returns pretty consistent results, some Christmas action with a few subjects
+        Window 12: good results, but all at the end, little variation
+        Window 16: quite consistent
+        Window 20: not normal
+    NOT SPLIT:
+
+SMALL ONLY DATA:
+    SPLIT:
+    NOT SPLIT:
